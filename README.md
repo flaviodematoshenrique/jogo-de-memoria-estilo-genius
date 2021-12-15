@@ -1,6 +1,6 @@
 # Criando seu jogo de memória estilo Genius
 
-Esse é o repositório da aula de Javascript, na qual foi feito um simples jogo Gênesis com apenas algumas linhas de código! 
+Esse é o repositório da aula de Javascript da Dio, no qual foi feito um simples jogo Gênesis com apenas algumas linhas de código! 
 
 ### Os requisitos são:
 
